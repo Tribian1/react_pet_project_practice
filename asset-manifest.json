@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_pet_project_practice/static/css/main.69c8d987.css",
+    "main.js": "/react_pet_project_practice/static/js/main.31264d43.js",
+    "index.html": "/react_pet_project_practice/index.html",
+    "main.69c8d987.css.map": "/react_pet_project_practice/static/css/main.69c8d987.css.map",
+    "main.31264d43.js.map": "/react_pet_project_practice/static/js/main.31264d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c8d987.css",
+    "static/js/main.31264d43.js"
+  ]
+}
