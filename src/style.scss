@@ -1,0 +1,56 @@
+@import 'macro-css';
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+   background-color: #ddd;
+
+}
+
+#root {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+}
+.App {
+   width: 400px;
+   
+}
+.page__wrapper {
+   display: flex;
+   justify-content:space-around;
+   margin: 20px 0 30px 0;
+   
+   
+}
+.page{
+   cursor: pointer;
+   padding: 10px;
+   border: 1px solid teal
+   
+}
+.page-active {
+   border: 3px solid black;
+   font-weight: bold;
+}
+
+.navbar {
+   height: 50px;
+   width: 100vw;
+   display: flex;
+   align-items: center;
+   padding: 0 15px;
+   background: lightgrey;
+
+   &__links {
+      margin-left: auto ;
+   }
+   a {
+      margin-right: 40px;
+   }
+}
+
+
+
